@@ -7,15 +7,9 @@ package practicasgithub;
 
 /**
  *
- * @author 54117
+ * @author LautaroSanabria
  */
 public class Practicasgithub {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+    
     
 }
